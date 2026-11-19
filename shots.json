@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-leonida.jpg","note":"Cover: tracker with 10 trophies earned, missable banner, filters, and the Positive Mental Attitude guide with its sources open beside the checklist.","path":"/?earned=2,3,4,5,8,9,15,16,21,28&trophy=28&spoiler=off","viewport":{"height":900,"width":1280}},{"file":"2-leonida.jpg","note":"Roadmap to the platinum: three stages with times, the missable warning, and the trophies listed under each stage.","path":"/?view=roadmap&earned=2,3,4,5,8,9,15,16,21,28","viewport":{"height":900,"width":1280}},{"file":"3-leonida.jpg","note":"Spoiler setting on: the platinum shows as a hidden story trophy until earned, with the A Long Road guide open beside it.","path":"/?earned=2,3,15,16,21&trophy=14","viewport":{"height":900,"width":1280}},{"file":"4-leonida.jpg","note":"Collectibles filter: 7 of 55 trophies shown, with the Don't Touch My Deck guide open beside the list.","path":"/?kind=collectibles&earned=2,3,15,35&trophy=30&spoiler=off","viewport":{"height":900,"width":1280}}]
